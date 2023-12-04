@@ -15,7 +15,7 @@ Click [here](https://fitness-exercice-app-bakribrahimi.vercel.app) to try My web
 ## Challange
 
 we will create a gym fitness and exercises website with react js, react-router, react loading spinner, react hooks, and rapid APIs.🏋️‍♂️
-🔥we will create multiple features in this project like fetching gym exercises, a BMI calculator, and fetching youtube gym exercises videos.
+🔥we will create multiple features in this project like fetching gym exercises and fetching youtube gym exercises videos.
 
 ## 💎Features
 
