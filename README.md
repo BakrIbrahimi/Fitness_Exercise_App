@@ -10,7 +10,7 @@
 
 We propose to develop a comprehensive fitness exercise web application that provides users with access to a vast database of exercises, workout routines, and fitness-related information. This application will not only serve as a resource for users looking to improve their fitness but will also include an API that allows other developers to integrate its data into their own fitness apps and platforms.
 
-Click [here](https://fitness-exercice-app-bakribrahimi.vercel.app) to try My web app
+Click [here](https://fitness-exercise-app-drab.vercel.app) to try My web app
 
 ## Challange
 
