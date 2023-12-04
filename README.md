@@ -3,7 +3,7 @@
 - [About](#about)
 - [Challange](#challange)
 - [💎Features](#💎Features)
-- [Project_Goals](#Project Goals)
+- [Project Goals](#Projct_Goals)
 
 
 ## About
